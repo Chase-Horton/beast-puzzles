@@ -1,6 +1,6 @@
-# Dogs Puzzle Solve
+# 100 Dogs Puzzle
 
-The puzzle is a 10x10 grid of dogs. Each dog has some combination of 5 visual properties: **bone**, **ears down**, **collar**, **spots**, and **tail wiggle**. Each unique combination of properties maps to a letter through a Venn diagram with 5 sets (A-E), where each set corresponds to one of the 5 properties — but we don't know which property maps to which set.
+The puzzle is a 10x10 grid of dogs. Each dog has some combination of 5 visual properties: **bone**, **ears up**, **collar**, **spots**, and **tail wiggle**. Each unique combination of properties maps to a letter through a Venn diagram with 5 sets (A-E), where each set corresponds to one of the 5 properties — but we don't know which property maps to which set.
 
 ## Process
 
@@ -36,7 +36,7 @@ The decoded grid reads:
 
 > **JUST A HUNDRED EXQUISITELY FUZZY PUPPIES CAN BE VIEWED LIKE AN ADVERB A NUMBER FROM A SPIELBERG MOVIE OR A FILM BY COPPOLA**
 
-The answer: **Somewhere**
+Which results in the answer: **Somewhere**
 - An adverb
 - A number from a Spielberg movie (*West Side Story*)
 - A film by Coppola (*Somewhere*, 2010)
